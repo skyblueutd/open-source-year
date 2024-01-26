@@ -12,3 +12,6 @@ https://github.com/facebookresearch/segment-anything
 Twitter recommendation system:
 https://github.com/twitter/the-algorithm
 
+There is a good time-series database:
+https://github.com/taosdata/TDengine
+
