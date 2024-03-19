@@ -5,6 +5,8 @@ GPT:
 https://github.com/jaymody/picoGPT
 FinGPT:
 https://github.com/AI4Finance-Foundation/FinGPT
+Robot:
+https://github.com/xai-org/grok-1
 
 Meta segment anything:
 https://github.com/facebookresearch/segment-anything
