@@ -17,3 +17,5 @@ https://github.com/twitter/the-algorithm
 There is a good time-series database:
 https://github.com/taosdata/TDengine
 
+Robot:
+https://github.com/huggingface/lerobot
