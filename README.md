@@ -19,3 +19,6 @@ https://github.com/taosdata/TDengine
 
 Robot:
 https://github.com/huggingface/lerobot
+
+Physics informed machine learning:
+https://github.com/lululxvi/deepxde
