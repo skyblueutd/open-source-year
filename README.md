@@ -22,3 +22,6 @@ https://github.com/huggingface/lerobot
 
 Physics informed machine learning:
 https://github.com/lululxvi/deepxde
+
+3D image:
+https://github.com/NVIDIAGameWorks/kaolin
